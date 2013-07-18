@@ -1,0 +1,12 @@
+LICENCE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+pip-egg-info/pygsr.egg-info/PKG-INFO
+pip-egg-info/pygsr.egg-info/SOURCES.txt
+pip-egg-info/pygsr.egg-info/dependency_links.txt
+pip-egg-info/pygsr.egg-info/requires.txt
+pip-egg-info/pygsr.egg-info/top_level.txt
+pygsr/__init__.py
+pygsr/examples/__init__.py
+pygsr/examples/simple.py
