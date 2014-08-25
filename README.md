@@ -1,4 +1,4 @@
 cursebot
 ========
 
-A simple program that gives a notification upon detecting any curse words
+A quick hack to detect spoken words and play a notification if curse words are detected.
